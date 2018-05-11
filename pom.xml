@@ -3,4 +3,8 @@
   <groupId>com.gunroses</groupId>
   <artifactId>git-test</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <properties>
+  	<spring.version>4.3.14.RELEASE</spring.version>
+  </properties>
 </project>
